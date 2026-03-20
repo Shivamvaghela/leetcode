@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivamvaghela/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shivamvaghela/leetcode/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivamvaghela/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shivamvaghela/leetcode/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
